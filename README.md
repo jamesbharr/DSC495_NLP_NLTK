@@ -2,16 +2,6 @@
 
 A repository with example code, exercises and solutions from the [Natural Language Toolkit Book](https://www.nltk.org/book/).
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BetoBob/NLTK-Book-Resource/blob/master/setup.ipynb)
-
-Content for this book is continuously being added for this project. For any inquiries email me at rehensle@calpoly.edu and for any specific issues or suggestions with the Jupyter Notebooks, create a new issue in the **Issues** tab of this repository.
-
-* [Quick Feedback Form](https://forms.gle/cPhBVg7JJybUab8F6)
-  * This link is for leaving a quick comment about the repository; anyone is welcome to share feedback here!
-* [Detailed Feedback Survey](https://forms.gle/cHCFQGzR7AhT7iHN7)
-  * This survey is designed for people who have completed the setup process and have tried one of the Chapter Notes / Exercises
-  * There are multiple questions, but the survey is short and each question is optional
-
 ## About
 
 This repository is intended to be a starting point for students wanting to learn both Natural Language Processing concepts and the Python programming language using the NLTK book. [NLTK](https://www.nltk.org/) is short for "Natural Language Toolkit", a set of linguistic tools used to analyze text for educational and research purposes. The [NLTK book](https://www.nltk.org/book/) aims to teach users common Natural Language Processing concepts and Python 3.0 simultaneously. The book also introduces other important concepts to general programming and Data Science, including:
